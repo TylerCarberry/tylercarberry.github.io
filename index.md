@@ -29,6 +29,10 @@ Generates timestamps for the Tested podcast This is Only a Test by listening for
 
 ## [Rowan Voice Assistant](https://github.com/TylerCarberry/RowanVoiceAssistant)
 
+<a href="https://amazon.com/dp/B07NL774CX"><i class="fa-brands fa-amazon"></i></a>
+
+Alexa skill to find information about Rowan University
+
 <img width="300" alt="Food" src="https://user-images.githubusercontent.com/6628497/52547557-a5b5a500-2d96-11e9-9ada-7ba96ce52129.jpg"><img width="300" alt="Sports" src="https://user-images.githubusercontent.com/6628497/52547558-a77f6880-2d96-11e9-8b9f-ba57dbbb4d00.jpg">
 
 ---
