@@ -3,7 +3,7 @@
 ## [Subway Display](https://github.com/TylerCarberry/SubwayDisplay)
 Displays subway arrival times on a Kindle Touch
 
-<img width="600" alt="Example screenshot" src="https://user-images.githubusercontent.com/6628497/97786594-03011380-1b83-11eb-8dd2-4eaa0f7516c0.png">
+<img width="450" alt="Example screenshot" src="https://user-images.githubusercontent.com/6628497/97786594-03011380-1b83-11eb-8dd2-4eaa0f7516c0.png">
 
 
 ---
@@ -11,7 +11,7 @@ Displays subway arrival times on a Kindle Touch
 ## [@VergeTaglines](https://github.com/TylerCarberry/VergeTaglines) [![Twitter Follow](https://img.shields.io/twitter/follow/vergetaglines.svg?style=social&label=Follow)](https://twitter.com/vergetaglines)
 Twitter bot that tweets the current header and tagline of [theverge.com](https://theverge.com)
 
-<img width="600" alt="screen shot 2018-08-12 at 7 00 45 pm" src="https://user-images.githubusercontent.com/6628497/44009627-1258a168-9e62-11e8-839a-aad6553966aa.png">
+<img width="450" alt="screen shot 2018-08-12 at 7 00 45 pm" src="https://user-images.githubusercontent.com/6628497/44009627-1258a168-9e62-11e8-839a-aad6553966aa.png">
 
 ---
 
@@ -44,7 +44,7 @@ Rowan U provides information for all aspects of your college experience at Rowan
 ## [Facial Navigation](https://github.com/TylerCarberry/FacialNavigation)
 Control your computer with your mind... and by moving your head! Winner of the 2019 Rowan Hackathon.
 
-![Image](https://user-images.githubusercontent.com/6628497/156261094-c655e111-2d9c-4add-93f9-977c911ed09c.jpeg)
+<img width="450" alt="Example screenshot" src="https://user-images.githubusercontent.com/6628497/156261094-c655e111-2d9c-4add-93f9-977c911ed09c.jpeg">
 
 ---
 
