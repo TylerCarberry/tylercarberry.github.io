@@ -15,6 +15,9 @@ Twitter bot that tweets the current header and tagline of [theverge.com](https:/
 
 ## [Magic Mirror](https://github.com/TylerCarberry/MagicMirror)
 Dashboard using a one way mirror and Android tablet
+- Displays the weather for your location using [Open Weather Map](https://openweathermap.org/)
+- Upcoming holidays and events from your calendar
+- The top headlines from the [New York Times](https://www.nytimes.com/)
 
 <img width="300" alt="Photo" src="https://user-images.githubusercontent.com/6628497/156099978-099f1755-90f2-4c80-a7f2-8cd2fe196e97.jpg"> <img width="300" alt="Screenshot" src="https://user-images.githubusercontent.com/6628497/156100884-ceb27970-a799-4c3b-87f9-e052d870df86.png">
 
@@ -29,9 +32,9 @@ Generates timestamps for the Tested podcast This is Only a Test by listening for
 
 ## [Rowan Voice Assistant](https://github.com/TylerCarberry/RowanVoiceAssistant)
 
-<a href="https://amazon.com/dp/B07NL774CX"><i class="fa-brands fa-amazon"></i></a>
+[![Alexa](https://user-images.githubusercontent.com/6628497/52546631-1789f080-2d8f-11e9-8f68-5ab3d17eec2a.png)](https://www.amazon.com/dp/B07NL774CX) [![Google](https://user-images.githubusercontent.com/6628497/52546716-a39c1800-2d8f-11e9-83bd-594f4dd6ecfe.png)](https://assistant.google.com/services/a/uid/00000077a098d815)
 
-Alexa skill to find information about Rowan University
+Rowan U provides information for all aspects of your college experience at Rowan University, from before you apply through graduation.
 
 <img width="300" alt="Food" src="https://user-images.githubusercontent.com/6628497/52547557-a5b5a500-2d96-11e9-9ada-7ba96ce52129.jpg"><img width="300" alt="Sports" src="https://user-images.githubusercontent.com/6628497/52547558-a77f6880-2d96-11e9-8b9f-ba57dbbb4d00.jpg">
 
