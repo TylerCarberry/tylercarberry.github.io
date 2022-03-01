@@ -49,7 +49,7 @@ Control your computer with your mind... and by moving your head! Winner of the 2
 ---
 
 ## [Dino AI](https://github.com/TylerCarberry/DinoAI)
-A genetic algorithm that learns to solve the Chrome Dinosaur Game.
+Developed an AI that learns to play the [Chrome Dino Game](chrome://dino) by using a genetic algorithm.
 
 ![Image](https://user-images.githubusercontent.com/6628497/39097331-e7dca934-4628-11e8-85bb-821dd2dbe0f4.gif)
 
