@@ -32,7 +32,7 @@ Generates timestamps for the Tested podcast This is Only a Test by listening for
 
 ---
 
-## [Rowan Voice Assistant](https://github.com/TylerCarberry/RowanVoiceAssistant)
+## Rowan Voice Assistant
 Rowan U provides information for all aspects of your college experience at Rowan University, from before you apply through graduation.
 
 [![Alexa](https://user-images.githubusercontent.com/6628497/52546631-1789f080-2d8f-11e9-8f68-5ab3d17eec2a.png)](https://www.amazon.com/dp/B07NL774CX) [![Google](https://user-images.githubusercontent.com/6628497/52546716-a39c1800-2d8f-11e9-83bd-594f4dd6ecfe.png)](https://assistant.google.com/services/a/uid/00000077a098d815)
