@@ -6,7 +6,6 @@ Displays subway arrival times on a Kindle Touch
 ---
 
 ## [@VergeTaglines](https://github.com/TylerCarberry/VergeTaglines) [![Twitter Follow](https://img.shields.io/twitter/follow/vergetaglines.svg?style=social&label=Follow)](https://twitter.com/vergetaglines)
-
 Twitter bot that tweets the current header and tagline of [theverge.com](https://theverge.com)
 
 <img width="512" alt="screen shot 2018-08-12 at 7 00 45 pm" src="https://user-images.githubusercontent.com/6628497/44009627-1258a168-9e62-11e8-839a-aad6553966aa.png">
@@ -31,12 +30,18 @@ Generates timestamps for the Tested podcast This is Only a Test by listening for
 ---
 
 ## [Rowan Voice Assistant](https://github.com/TylerCarberry/RowanVoiceAssistant)
+Rowan U provides information for all aspects of your college experience at Rowan University, from before you apply through graduation.
 
 [![Alexa](https://user-images.githubusercontent.com/6628497/52546631-1789f080-2d8f-11e9-8f68-5ab3d17eec2a.png)](https://www.amazon.com/dp/B07NL774CX) [![Google](https://user-images.githubusercontent.com/6628497/52546716-a39c1800-2d8f-11e9-83bd-594f4dd6ecfe.png)](https://assistant.google.com/services/a/uid/00000077a098d815)
 
-Rowan U provides information for all aspects of your college experience at Rowan University, from before you apply through graduation.
+<img width="300" alt="Sports" src="https://user-images.githubusercontent.com/6628497/52547558-a77f6880-2d96-11e9-8b9f-ba57dbbb4d00.jpg"><img width="300" alt="Food" src="https://user-images.githubusercontent.com/6628497/52547557-a5b5a500-2d96-11e9-9ada-7ba96ce52129.jpg">
 
-<img width="300" alt="Food" src="https://user-images.githubusercontent.com/6628497/52547557-a5b5a500-2d96-11e9-9ada-7ba96ce52129.jpg"><img width="300" alt="Sports" src="https://user-images.githubusercontent.com/6628497/52547558-a77f6880-2d96-11e9-8b9f-ba57dbbb4d00.jpg">
+---
+
+## [Facial Navigation](https://github.com/TylerCarberry/FacialNavigation)
+Control your computer with your mind... and by moving your head! Winner of the 2019 Rowan Hackathon.
+
+![Image](https://user-images.githubusercontent.com/6628497/156261094-c655e111-2d9c-4add-93f9-977c911ed09c.jpeg)
 
 ---
 
