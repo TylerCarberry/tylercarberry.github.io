@@ -1,3 +1,9 @@
+---
+title: Tyler Carberry
+description: Android Developer
+image: https://tylercarberry.com/assets/social_share_image.jpg
+---
+
 # Projects
 
 ## [Subway Display](https://github.com/TylerCarberry/SubwayDisplay)
