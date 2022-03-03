@@ -1,4 +1,21 @@
 <title>Tyler Carberry</title>
+<meta name="description" content="Android Developer">
+
+<!-- Facebook Meta Tags (Meta Meta Tags) -->
+<meta property="og:url" content="http://tylercarberry.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Tyler Carberry">
+<meta property="og:description" content="Android Developer">
+<meta property="og:image" content="/assets/social_share_image.jpg">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="tylercarberry.com">
+<meta property="twitter:url" content="http://tylercarberry.com/">
+<meta name="twitter:title" content="Tyler Carberry">
+<meta name="twitter:description" content="Android Developer">
+<meta name="twitter:image" content="/assets/social_share_image.jpg">
+
 
 # Projects
 
