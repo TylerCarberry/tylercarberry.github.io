@@ -6,7 +6,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Tyler Carberry">
 <meta property="og:description" content="Android Developer">
-<meta property="og:image" content="/assets/social_share_image.jpg">
+<meta property="og:image" content="https://tylercarberry.com/assets/social_share_image.jpg">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
@@ -14,7 +14,7 @@
 <meta property="twitter:url" content="http://tylercarberry.com/">
 <meta name="twitter:title" content="Tyler Carberry">
 <meta name="twitter:description" content="Android Developer">
-<meta name="twitter:image" content="/assets/social_share_image.jpg">
+<meta name="twitter:image" content="https://tylercarberry.com/assets/social_share_image.jpg">
 
 
 # Projects
