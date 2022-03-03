@@ -1,3 +1,5 @@
+<title>Tyler Carberry</title>
+
 # Projects
 
 ## [Subway Display](https://github.com/TylerCarberry/SubwayDisplay)
