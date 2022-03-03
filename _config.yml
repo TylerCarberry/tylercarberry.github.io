@@ -1,6 +1,6 @@
 remote_theme: BDHU/minimalist
 title: Tyler Carberry
-logo: https://avatars.githubusercontent.com/u/6628497
+logo: /assets/me.webp
 sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
