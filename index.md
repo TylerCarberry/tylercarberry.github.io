@@ -35,9 +35,9 @@ Generates timestamps for the Tested podcast This is Only a Test by listening for
 ## Rowan Voice Assistant
 Rowan U provides information for all aspects of your college experience at Rowan University, from before you apply through graduation.
 
-[![Alexa](https://user-images.githubusercontent.com/6628497/52546631-1789f080-2d8f-11e9-8f68-5ab3d17eec2a.png)](https://www.amazon.com/dp/B07NL774CX) [![Google](https://user-images.githubusercontent.com/6628497/52546716-a39c1800-2d8f-11e9-83bd-594f4dd6ecfe.png)](https://assistant.google.com/services/a/uid/00000077a098d815)
+[![Alexa](/assets/alexa_logo.webp)](https://www.amazon.com/dp/B07NL774CX) [![Google](/assets/google_assistant_logo.webp)](https://assistant.google.com/services/a/uid/00000077a098d815)
 
-<img width="300" alt="Sports" src="https://user-images.githubusercontent.com/6628497/52547558-a77f6880-2d96-11e9-8b9f-ba57dbbb4d00.jpg"><img width="300" alt="Food" src="https://user-images.githubusercontent.com/6628497/52547557-a5b5a500-2d96-11e9-9ada-7ba96ce52129.jpg">
+<img width="300" alt="Sports" src="/assets/rowanu_sports.webp"><img width="300" alt="Food" src="/assets/rowanu_food.webp">
 
 ---
 
