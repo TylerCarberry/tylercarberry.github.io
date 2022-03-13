@@ -9,7 +9,7 @@ image: https://tylercarberry.com/assets/social_share_image.jpg
 ## [Subway Display](https://github.com/TylerCarberry/SubwayDisplay)
 Displays subway arrival times on a Kindle Touch
 
-<img width="450" alt="Subway no frame" src="/assets/subway_no_frame.webp"> <img width="450" alt="Subway frame" src="/assets/subway_frame.webp">
+<img width="300" alt="Subway no frame" src="/assets/subway_no_frame.webp"> <img width="300" alt="Subway frame" src="/assets/subway_frame.webp">
 
 
 
