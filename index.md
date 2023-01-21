@@ -41,10 +41,16 @@ Generates timestamps for the Tested podcast This is Only a Test by listening for
 Rowan U provides information for all aspects of your college experience at Rowan University, from before you apply through graduation.
 
 <a href="https://www.amazon.com/dp/B07NL774CX">
-  <img src="/assets/alexa_logo.webp" alt="Alexa" width="200px" max-width="49%">
+  <img src="/assets/alexa_logo.webp" alt="Alexa" style="
+    width: 200px;
+    max-width: 49%;
+">
 </a>
 <a href="https://assistant.google.com/services/a/uid/00000077a098d815">
-  <img src="/assets/google_assistant_logo.webp" alt="Google" width="200px" max-width="49%">
+  <img src="/assets/google_assistant_logo.webp" alt="Google" style="
+    width: 200px;
+    max-width: 49%;
+">
 </a>
 
 <img width="49%" alt="Sports" src="/assets/rowanu_sports.webp"><img width="49%" alt="Food" src="/assets/rowanu_food.webp">
