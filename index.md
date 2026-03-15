@@ -6,6 +6,16 @@ image: https://tylercarberry.com/assets/social_share_image.jpg
 
 # Projects
 
+## Personal Newspaper
+Prints a personalized newspaper every morning
+- Gathers information from Gmail, Google Calendar, Google Tasks, Google Fit, along with MBTA status and weather forecast.
+- Generates a unique header image every day using Nano Banana.
+- Finds nearby events and adds suggested activities to the calendar and to-do list.
+
+<img width="51%" alt="Personal Newspaper photo" src="/assets/personalnewspaper/photo.webp"> <img width="46%" alt="Personal Newspaper screenshot" src="/assets/personalnewspaper/screenshot.webp">
+
+---
+
 ## [Subway Display](https://github.com/TylerCarberry/SubwayDisplay)
 Displays subway arrival times on a Kindle Touch
 
